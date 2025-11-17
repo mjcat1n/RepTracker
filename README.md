@@ -9,4 +9,3 @@ Our vision is to create **RepTracker**, a smart and simple workout logging app d
 
 ## 🏋️
 
-![Vascular](https://github.com/user-attachments/assets/48af48de-e6dd-476a-b9e2-04257431d629)
