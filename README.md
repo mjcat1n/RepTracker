@@ -5,7 +5,7 @@ Our vision is to create **RepMind**, a smart and simple workout logging app desi
 ## 🚀 Try it out!
 
 👉 **Use RepTrack here:**  
-[https://unified-logic-development-team.github.io/RepTrack/](https://unified-logic-development-team.github.io/RepTrack/)
+[https://unified-logic-development-team.github.io/RepTracker/](https://unified-logic-development-team.github.io/RepTracker/)
 
 ## 🏋️
 
