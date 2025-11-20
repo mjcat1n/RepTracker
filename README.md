@@ -9,3 +9,17 @@ Our vision is to create **RepTracker**, a smart and simple workout logging app d
 
 ## 🏋️
 
+👉 **Developer Notes:**  
+This project is deployed via Vaadin (https://vaadin.com/). To contribute to the project, follow these steps.
+ 1. Fork and/or Clone a copy to your local system.
+ 2. Edit or Add java code as needed.
+ 3. Navigate to where the files are saved locally, and run the following commands:
+ 
+     sudo apt install maven
+     
+     mvn spring-boot:run
+     
+ 4. This will generate new javascript files which should also be added to any pull requests to the main repository.
+
+##
+
