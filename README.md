@@ -46,8 +46,8 @@ Download chocolatey package manager at https://chocolatey.org/install
 
 For all other operating systems, refer to https://maven.apache.org/download.cgi or your OS package manager.
      
- 5. This will run SpringBoot and the application will be available for testing on localhost
- 6. Once SpringBoot is running, test out the application: http://localhost:8080/
+ 4. This will run SpringBoot and the application will be available for testing on localhost
+ 5. Once SpringBoot is running, test out the application: http://localhost:8080/
 
 ##
 Side Note: If port 8080 is busy, kill the process and run the mvn command again.
