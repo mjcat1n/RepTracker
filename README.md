@@ -72,7 +72,7 @@ The application will automatically update as changes are made to the repository.
 **Unified Logical Development Team**
 
 - Andrew  
-- Eric  
+- Erik
 - Davon  
 - Matt  
 - Ted  
